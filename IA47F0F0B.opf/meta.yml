@@ -1,0 +1,25 @@
+id: IA47F0F0B
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:03:20.603109'
+last_modified: '2022-06-05T20:03:20.603123'
+parser: null
+source_metadata:
+  title: Sixteenth Karmapa Series
+  language: bo
+  description: 'Texts by and about the Sixteenth Karmapa, Rangjung Rigpé Dorje (rang
+    byung rig pa''i rdo rje, 1924–1981):'
+  volume:
+    f4A40:
+      title: Prayer for the Long Life of the Sixteenth Karmapa
+      base_file: f4A40.txt
+      order: 1
+      parent: Long Life Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
